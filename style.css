@@ -1,0 +1,99 @@
+body{
+text-align: center;
+margin: 0;
+padding-top: 800px;
+
+
+}
+#Profile_Img{
+width: 250px;
+height: 325px;
+border-radius: 30%;
+}
+
+#Home{
+position: absolute;
+bottom: 0;
+display: table;
+width: 100%;
+height: 100%;
+background: linear-gradient(#8a8275 0%, #e8b056 25%, red 50%, pink 75%, rgb(172, 49, 172) )
+
+}
+
+#bio{
+padding: 50px;
+
+}
+
+p{
+max-width: 650px;
+text-align:center;
+margin: 25px auto;
+
+}
+
+.Line{
+height: 6px;
+background-color: black;
+width: 400px;
+margin: 8px auto;
+
+
+}
+
+.Main_Div{
+
+display: table-cell;
+vertical-align: middle;
+
+
+
+}
+.Menu{
+list-style:none ;
+position:fixed;
+background-color:#deeb34 ;
+top: 0px;
+z-index:10 ;
+cursor: position;
+width: 100%;
+margin-top:0px;
+
+
+}
+
+.Link{
+display: inline;
+padding-top: 7px;
+padding-bottom: 5px;
+padding-left: 15px;
+padding-right: 15px;
+font-family:'Merriweather', serif;
+
+
+}
+.Link:hover{
+ font-size:20px;  
+}
+
+#Name{
+font-family:'Source Serif Pro', serif;
+font-size: 30px;
+color:#2e8ae6;
+;
+
+}
+
+#Description{
+font-family:'Libre Baskerville', serif; ;    
+}
+
+section{
+    
+}
+
+
+
+
+ 
